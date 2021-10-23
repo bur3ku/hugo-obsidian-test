@@ -1,4 +1,4 @@
-module github.com/bur3ku/hugo-obsidian
+module github.com/bur3ku/hugo-obsidian-test
 
 go 1.16
 
